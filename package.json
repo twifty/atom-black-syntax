@@ -1,0 +1,15 @@
+{
+  "name": "twifty-black-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A high contrast black syntax theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/twifty/atom-black-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
