@@ -9,7 +9,7 @@
     "black",
     "dark"
   ],
-  "repository": "git@github.com:twifty/atom-black-syntax.git",
+  "repository": "https://github.com/twifty/atom-black-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
