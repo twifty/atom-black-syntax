@@ -5,11 +5,18 @@
   "description": "A high contrast black syntax theme",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "black",
+    "dark"
   ],
-  "repository": "https://github.com/twifty/atom-black-syntax",
+  "repository": "git@github.com:twifty/atom-black-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
+  },
+  "apmInstallSource": {
+    "type": "git",
+    "source": "git@github.com:twifty/atom-black-syntax.git",
+    "sha": "343458ce6c6111dc8080590b9f01a5c200acf1eb"
   }
 }
